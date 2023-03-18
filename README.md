@@ -12,8 +12,7 @@ I'm also a student at Dev em Dobro(https://discord.gg/Kq6UMYWU), where I learn a
 * ✉️ You can contact me at [daviben00@gmail.com](mailto:daviben00@gmail.com)
 * 🧠 I'm learning advanced Javascript, unit testing and java programming languages
 * 🤝 I am open to collaborating on high impact projects on people's lives
-* ⚡ I love sports and my favorite is Crossfit
-
+* ⚡ I love watching anime, playing games and martial arts
 <a href="https://www.github.com/davi-dav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/davi-dav?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
