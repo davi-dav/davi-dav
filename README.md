@@ -7,7 +7,7 @@ Front-End Software Developer
 
 I'm a 20 year old developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is front-end development, making applications that impact the lives of thousands of users.
 
-I'm also a student at Dev em Dobro(https://www.instagram.com/Davi-Dav/), where I learn all kinds of languages used in the job market.
+I'm also a student at Dev em Dobro(https://www.instagram.com/devemdobro/), where I learn all kinds of languages used in the job market.
 
 * 🌍 I live in Uianópolis -PA, Brazil
 * 🧠 I'm learning advanced Javascript, unit testing and java programming languages
